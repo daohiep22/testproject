@@ -3,3 +3,4 @@ sua boi master
 cap nhat boi master 2
 
 cap nhat 2
+cap nhat a
